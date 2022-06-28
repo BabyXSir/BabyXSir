@@ -1,4 +1,4 @@
-<p align="center"><a href="https://azheng.work"><img width="80%" alt="Hello, I'm Azheng. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="www.azheng.work"><img width="80%" alt="Hello, I'm Azheng. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
 <br />
 

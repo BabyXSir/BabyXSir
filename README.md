@@ -1,4 +1,4 @@
-<p align="left" style="font-size:28px;font-weight:600">😘 Nice to see you!</p>
+# 😘 Nice to see you!
 
 
 欢迎访问我的页面，我是一个来自中国的热衷于学习编程技术的前端工程师。

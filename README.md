@@ -12,12 +12,8 @@
 
 - 💬 点击[这里](https://github.com/azheng-bot/azheng-bot/issues)与我聊天
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
+![Javascript](https://img.shields.io/badge/Javascript-a?logo=Javascript&color=f7df1e&labelColor=0&logoColor=fff) ![Typescript](https://img.shields.io/badge/Typescript-a?logo=Typescript&color=007cd0&labelColor=0&logoColor=fff) ![React](https://img.shields.io/badge/React-a?logo=React&color=3bbbe2&labelColor=0&logoColor=fff) ![Vue](https://img.shields.io/badge/Vue-a?logo=Vue.js&color=41b883&labelColor=0&logoColor=fff) ![Webpack](https://img.shields.io/badge/Webpack-a?logo=Webpack&color=92d9ff&labelColor=0&logoColor=fff) ![npm](https://img.shields.io/badge/npm-a?logo=npm&color=cb0000&labelColor=0&logoColor=fff) ![HTML5](https://img.shields.io/badge/HTML5-a?logo=HTML5&color=df5522&labelColor=0&logoColor=fff) ![Nodejs](https://img.shields.io/badge/Nodejs-a?logo=Node.js&color=43853e&labelColor=0&logoColor=fff)
 
 | <a href="https://github.com/azheng-bot/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=azheng-bot&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Azheng's github stats" /></a> | <a href="https://github.com/azheng-bot/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azheng-bot&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |

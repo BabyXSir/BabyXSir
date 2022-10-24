@@ -9,7 +9,7 @@
 
 - 💬 点击[这里](https://github.com/azheng-bot/azheng-bot/issues)与我聊天
 
-- 💻 这是我的博客 [Azheng's blog](www.azheng.work)
+- 💻 这是我的博客 [阿正的个人博客](http://www.阿正.cn)
 
 <br />
 
